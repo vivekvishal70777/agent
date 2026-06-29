@@ -1,0 +1,6 @@
+ pip install requests
+ pip install dotenv
+ pip install fastmcp
+ pip install langchain_mcp_adapters
+ pip install langchain
+ pip install streamlit
